@@ -1,0 +1,24 @@
+{
+  "name": "ask.fm-user-likespredicting-data",
+  "version": "1.0.0",
+  "description": "collecting ask.fm answers data..",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js",
+    "ask.fm",
+    "dataset"
+  ],
+  "author": "Ahmed Aboelyazeed",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmdaeyz/ask.fm-user-likespredicting-data.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ahmdaeyz/ask.fm-user-likespredicting-data/issues"
+  },
+  "homepage": "https://github.com/ahmdaeyz/ask.fm-user-likespredicting-data#readme"
+}
